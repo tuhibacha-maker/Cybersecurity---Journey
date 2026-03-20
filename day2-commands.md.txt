@@ -1,0 +1,21 @@
+# Day 2 – Basic Linux Commands
+
+## Commands:
+
+pwd – Shows the current working directory
+
+ls – Lists files and directories
+
+cd – Changes directory
+
+mkdir test – Creates a new directory named 'test'
+
+touch file.txt – Creates a new file
+
+rm file.txt – Deletes a file
+
+cp file.txt backup.txt – Copies file
+
+mv file.txt newfile.txt – Renames or moves file
+
+cat file.txt – Displays file content
