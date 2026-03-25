@@ -1,4 +1,4 @@
-# 🚀 Day 3: Basic Networking Commands 
+ Day 3: Basic Networking Commands 
 
 ## 🌐 Ping Command
 ping google.com  
