@@ -1,4 +1,4 @@
-# Day 2 – Basic Linux Commands
+   Day 2 – Basic Linux Commands
 
 ## Commands:
 
