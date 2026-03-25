@@ -1,4 +1,4 @@
-# Day 4 - Linux Permissions.md
+ Day 4 - Linux Permissions.md
 
 ## Commands I Practiced
 
