@@ -1,4 +1,4 @@
-# Day 6 - File Compression
+ Day 6 - File Compression
 
 ## Commands I tried
 
