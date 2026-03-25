@@ -1,0 +1,20 @@
+# Day 7 - Network Info Commands
+
+## Commands I tried
+
+hostname  
+show system name
+
+ip a  
+show IP address
+
+ping google.com  
+check connectivity
+
+curl ifconfig.me  
+get public IP
+
+---
+
+## Question
+what is the difference between private and public IP?
