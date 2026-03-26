@@ -1,0 +1,18 @@
+Day 8 - Hash Commands
+
+Commands I tried
+
+echo "hello" | md5sum
+generate md5 hash
+
+echo "hello" | sha1sum
+generate sha1 hash
+
+echo "hello" | sha256sum
+generate sha256 hash
+
+
+---
+
+Question
+why are hashes used in security?
