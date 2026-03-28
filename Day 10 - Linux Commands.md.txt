@@ -1,0 +1,19 @@
+ Day 10 - Linux Commands
+
+ 1. Display current working directory
+pwd
+
+ 2. List files and directories with detailed info
+ls -l
+
+ 3. Check disk usage of files and directories
+du -h
+
+ 4. Check free and used memory
+free -h
+
+ 5. View running processes
+ps aux
+
+ 6. Display last logged in users
+last
