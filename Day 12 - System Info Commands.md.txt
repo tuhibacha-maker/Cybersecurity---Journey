@@ -1,0 +1,21 @@
+Day 12 - System Info Commands 
+
+Commands I tried 
+
+uname -a 
+show system details 
+
+who 
+showlogged in users 
+
+uptime 
+show system running time
+
+date
+show current date and time
+
+--- 
+
+
+Question 
+why is it important to check system infprmation?
