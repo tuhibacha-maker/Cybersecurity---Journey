@@ -1,0 +1,5 @@
+Day 15 - Linux Permissions
+
+find -name file.txt
+locate file.txt
+which python
