@@ -1,0 +1,6 @@
+Day 16 - Linux Commands
+
+
+grep "text" file.txt
+grep -i "text" file.txt
+grep -r "text" .
